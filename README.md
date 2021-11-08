@@ -17,3 +17,11 @@ sudo apt install code
 ```
 sudo snap install --classic code
 ```
+
+## Qv2ray
+
+* https://github.com/Qv2ray/Qv2ray/releases/tag/v2.7.0
+* https://github.com/v2ray/v2ray-core/releases/
+* 打开Qv2ray: preference(首选项)-内核设置，修改：v2ray-linux-64/v2ray， v2ray-linux-64
+* 分组-订阅设置-订阅地址-Basic Base64-更新订阅
+
