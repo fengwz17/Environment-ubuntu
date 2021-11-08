@@ -25,3 +25,8 @@ sudo snap install --classic code
 * 打开Qv2ray: preference(首选项)-内核设置，修改：v2ray-linux-64/v2ray， v2ray-linux-64
 * 分组-订阅设置-订阅地址-Basic Base64-更新订阅
 
+## z3
+**ubuntu 20.04可以，18.04会有链接问题**
+```
+sudo apt install libz3-dev
+```
