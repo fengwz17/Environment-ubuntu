@@ -30,3 +30,10 @@ sudo snap install --classic code
 ```
 sudo apt install z3
 ```
+
+## yosys
+```
+sudo add-apt-repository ppa:saltmakrell/ppa
+sudo apt-get update
+sudo apt-get install yosys
+```
