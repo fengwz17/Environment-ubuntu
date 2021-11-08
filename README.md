@@ -28,5 +28,5 @@ sudo snap install --classic code
 ## z3
 **ubuntu 20.04可以，18.04会有链接问题**
 ```
-sudo apt install libz3-dev
+sudo apt install z3
 ```
