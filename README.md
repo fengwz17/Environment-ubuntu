@@ -37,3 +37,19 @@ sudo add-apt-repository ppa:saltmakrell/ppa
 sudo apt-get update
 sudo apt-get install yosys
 ```
+
+## git ssh key
+```
+git config --global  user.name "用户名"
+git config --global user.email "邮箱"
+```
+
+生成密钥
+```
+ssh-keygen -t rsa -C "这里换上你的邮箱"
+```
+
+查看id_rsa.pub, $username换成自己的用户名
+```
+cat /home/$username/.ssh/id_rsa.pub
+```
