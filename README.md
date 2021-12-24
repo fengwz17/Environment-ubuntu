@@ -53,3 +53,10 @@ ssh-keygen -t rsa -C "这里换上你的邮箱"
 ```
 cat /home/$username/.ssh/id_rsa.pub
 ```
+
+## win10安装ubuntu20.04
+* U盘启动盘
+
+1) download [rufus](https://github.com/pbatard/rufus/releases/)
+2) download [ubuntu](https://ubuntu.com/download/desktop)
+3) follow the default setting in rufus to create the bootable USB flash drives.
